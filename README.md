@@ -28,11 +28,11 @@
 -----------------
 
 ## Insérer du code  
-=> `code`.
+=> `code`
 
 
-Si votre code renferme déjà l’apostrophe inversée, vous devez précéder la zone de code de deux fois ce caractère.
-``C’est tout le `code`.``
+Si votre code renferme déjà l’apostrophe inversée, vous devez précéder la zone de code de deux fois ce caractère.  
+=> ``C’est tout le `code`.``
 
 
 ```html
@@ -51,6 +51,8 @@ Ici ce qui suit [Lien](https://example.com/ "titre de lien optionnel").
 
 ![Ceci est un exemple d’image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWje_gjVcmi-wks5nTRnW_xv5W2l3MVnk7W1QDcZuhNg&s)
 
+![Badge Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+
 --------------------------
 ## Tableau  
   
@@ -68,7 +70,8 @@ Dans le texte ordinaire [^1] vous pouvez facilement placer des notes de bas de p
 Et celles-ci comprennent même plusieurs lignes
 
 --------------------------
-## Echapper les caractères spéciaux utiliser par le Markdown
+## Echapper les caractères spéciaux utiliser par le Markdown  
+=> \  
 
-Ceci est un \*exemple avec des astérisques\*.
-
+Ceci est un \*exemple avec des astérisques\*.  
+Ceci est un \#exemple avec des dièse\#.
