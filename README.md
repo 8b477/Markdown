@@ -1,6 +1,6 @@
 # Markdown Mémo  
 
-**Télécharge le fichier en ZIP pour voir les balises utilisées**
+**Télécharge le fichier en .ZIP pour voir les balises utilisées**
 
 ---------------  
 
