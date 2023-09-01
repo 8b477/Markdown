@@ -1,5 +1,5 @@
 ---------------  
-# **Télécharge le fichier en .ZIP pour voir les balises utilisées ou clone projet**
+# **Télécharge le fichier en .ZIP pour voir les balises utilisées ou clone le projet**
 --------------
 
 
